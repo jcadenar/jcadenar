@@ -81,7 +81,7 @@
 ## <h1>***How to reach me*** <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZxeHQzMjBxbjgyYm00aGdmYzIzZTVlcDgybjJ0Z2d1cjgyazE0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vRfWXyo1FNDjvxqcgt/giphy.gif" width="40" alt="mail"/></h1>
 <div align="left">
 
-💼 LinkedIn: [Julian Cadena](https://www.linkedin.com/in/julian-cadena-45550a340/)
+💼 LinkedIn: [Julian Cadena](https://www.linkedin.com/in/julian-esteban-cadena-rojas-45550a340/?originalSubdomain=co)
   
 ✉️ Email: [jcadenar@unal.edu.co](mailto:jcadenar@unal.edu.co)
 
