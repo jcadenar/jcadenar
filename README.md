@@ -8,7 +8,7 @@
 ## <h1>***About me*** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpjd2xicDVqcTdpYWY1YXJudTd5d2I3MzlpcG5hNXFoOWk3a3dueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gFK6scW91lwIA6vRXD/giphy.gif" width="30" alt="Animación de saludo"/></h1>
 <div align="left">
   
-* 👨‍🎓 System Engineering student at National University of Colombia and a technology enthusiast.
+* 👨‍🎓 System Engineering student and a technology enthusiast. I am always looking to improve my skills, learn new technologies and collaborate with others.
 * 🌱 I’m currently learning about Cloud Computing and game development.
 
 ## <h1>***I've worked with*** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg3aTQxa2gydmUwbjhlbWc0aHgzaTIzejVrZGZqbTBpNmxpeWJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jst1qBkFLzIEgLG3Mw/giphy.gif" width="30" alt="Animación de saludo"/></h1>
