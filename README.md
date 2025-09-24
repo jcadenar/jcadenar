@@ -8,8 +8,15 @@
 ## <h1>***About me*** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpjd2xicDVqcTdpYWY1YXJudTd5d2I3MzlpcG5hNXFoOWk3a3dueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gFK6scW91lwIA6vRXD/giphy.gif" width="30" alt="Animación de saludo"/></h1>
 <div align="left">
   
-* 👨‍🎓 System Engineering student and a technology enthusiast. I am always looking to improve my skills, learn new technologies and collaborate with others.
-* 🌱 I’m currently learning about Cloud Computing and game development.
+*👨‍🎓 I am a Systems Engineering student and a passionate technology enthusiast, currently developing my career as a Data Analyst trainee. I enjoy working with data to uncover insights, support decision-making, and design efficient solutions.
+
+*📊 My main interests are in data analysis, cloud computing, and solution architecture. I have hands-on experience with tools for data exploration and visualization, and I am constantly improving my skills to tackle more complex analytical challenges.
+
+*☁️ I am AWS Certified (Cloud Practitioner & Cloud Practitioner Essentials), which has strengthened my understanding of cloud fundamentals and encouraged me to explore how scalable and secure solutions can be built using AWS services. I’m particularly curious about how data pipelines, serverless computing, and storage solutions can come together to solve real-world problems.
+
+*🤖 I’m also fascinated by Machine Learning and its potential to transform industries. My current goal is to keep learning about ML techniques and gradually integrate them into projects where I can combine data, cloud, and intelligent systems.
+
+*🌱 Beyond technical skills, I value collaboration, continuous learning, and adaptability. I believe that technology is best used when shared, so I enjoy contributing to projects, exchanging knowledge, and challenging myself with new technologies such as game development and modern software architectures.
 
 ## <h1>***I've worked with*** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg3aTQxa2gydmUwbjhlbWc0aHgzaTIzejVrZGZqbTBpNmxpeWJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jst1qBkFLzIEgLG3Mw/giphy.gif" width="30" alt="Animación de saludo"/></h1>
 <div align="left">
