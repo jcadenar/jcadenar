@@ -12,7 +12,7 @@
 
 * 📊 My main interests are in data analysis, cloud computing, and solution architecture. I have hands-on experience with tools for data exploration and visualization, and I am constantly improving my skills to tackle more complex analytical challenges.
 
-* ☁️ I am AWS Certified (Cloud Practitioner & Cloud Practitioner Essentials), which has strengthened my understanding of cloud fundamentals and encouraged me to explore how scalable and secure solutions can be built using AWS services. I’m particularly curious about how data pipelines, serverless computing, and storage solutions can come together to solve real-world problems.
+* ☁️ I am AWS Certified (Cloud Practitioner, Cloud Practitioner Essentials and Machine Learning Engineer Associate), which has strengthened my understanding of cloud fundamentals and encouraged me to explore how scalable and secure solutions can be built using AWS services. I’m particularly curious about how data pipelines, serverless computing and storage solutions can come together to solve real-world problems.
 
 * 🤖 I’m also fascinated by Machine Learning and its potential to transform industries. My current goal is to keep learning about ML techniques and gradually integrate them into projects where I can combine data, cloud, and intelligent systems.
 
