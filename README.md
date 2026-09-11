@@ -32,6 +32,9 @@
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="64" height="64" alt="Java" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/typescript-colored.svg" width="64" height="64" alt="TypeScript" />
+  </a>
 </p>
 
 ### Frontend Development
