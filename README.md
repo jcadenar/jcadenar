@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="64" height="64" alt="NodeJS" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width="64" height="64" alt="SpringBoot" />
+    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/springboot-colored.svg" width="64" height="64" alt="SpringBoot" />
   </a>
 </p>
 
