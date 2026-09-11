@@ -85,6 +85,9 @@
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="64" height="64" alt="Linux" />
   </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/aws-colored.svg" width="64" height="64" alt="AWS" />
+  </a>
 </p>
 
 
